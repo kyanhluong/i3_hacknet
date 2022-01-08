@@ -1,0 +1,3 @@
+#!/bin/sh
+#run "~/.fehbg &" to reload
+feh --no-fehbg --bg-fill ~/Pictures/MattTrobbiani_Razzamataz.png

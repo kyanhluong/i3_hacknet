@@ -1,0 +1,19 @@
+!! when done reload with xrdb ~/.Xresources
+
+!! color bar
+!! polybar + i3wm dmenu element (normal color)
+*color_bar_bg: #B05825
+*color_bar_drk_txt: #FABB97
+
+!! i3wm dmenu element only (selected color (for both background and text))
+*color_bar_sel_bg: #BF6937
+*color_bar_sel_txt: #F9B995
+
+
+!! i3wm windows element (not to be mistaken with termite element)
+*color_term_title_bckgnd: #1A2F41
+*color_term_title_txt: #8CA2B4
+*color_term_bdr: #374163
+
+!! theres termite transparency color but you still need to go to ~/.config/Termite/config then look for [colors] > background to set
+!! idk how to set termite color after ./Xresources

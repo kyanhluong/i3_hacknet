@@ -1,0 +1,10 @@
+[colors]
+#Value get from the game
+background = rgba(14, 28, 40,0.3)
+
+foreground = #ffffff
+
+# If you have to tinker with this Ctrl + Shift + R to reload
+
+[options]
+font = Consolas Bold 10
